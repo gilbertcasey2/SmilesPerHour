@@ -1,4 +1,10 @@
 ///
+// Author: Casey E Gilbert
+// Name: Rope.pde
+// Main Program: SmilesPerHourModel.pde
+// Subprogram name: Rope.pde
+// Created: 02/2017
+// Edited: 04/21/2017
 // class Rope
 // this class represents one single rope holding a ball
 // it stores its own length

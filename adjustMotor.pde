@@ -1,3 +1,13 @@
+///
+// Author: Casey E Gilbert
+// Name: adjustMotor
+// Purpose: This program was started to allow us to adjust the motors 
+//	    manually so that we could easily and quickly control where
+//	    the balls hung in the physical graph. It was never finished
+//	    because we didn't have time to reprogram the arduinos to
+//	    with a new arduino program that would communicate with this
+//	    program.
+///
 
 import processing.serial.*;
 import provessing.net.*;

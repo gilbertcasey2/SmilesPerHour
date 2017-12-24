@@ -1,4 +1,8 @@
-///
+//Author: Casey E Gilbert
+// Name: Timeframe.pde
+// Main Program's Name: SmilesPerHourModel.pde
+// Created: 02/2017
+// Edited: 04/21/2017/
 // class Timeframe
 // This class holds the total timeframe of data collected
 // It allows you to select windows of time from within this data

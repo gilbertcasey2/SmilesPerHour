@@ -1,4 +1,12 @@
 ///
+// Author: Casey E Gilbert
+// Name: parseData.pde
+// Created: May 12, 2017
+// Purpose: To parse the data collected from the happiness kiosks,
+//	    and put it into documents that would be manageable for 
+//	    the SmilesPerHour to use to send movement data to the 
+//	    arduino's motors. 
+//
 // parseData()
 // This is a program to parse data from an 
 // individual location file

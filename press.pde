@@ -1,5 +1,8 @@
 ///
+// Author: Casey E Gilbert
+// Created: May 12, 2017
 // Name: press
+// Main Program Name: parseData.pde
 // This class represents one press of a button
 // It holds the date/time and level of happiness
 // just a helper
